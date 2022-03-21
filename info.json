@@ -1,17 +1,23 @@
 {
-    "name": "Chiu Zhiu",
-    "website": "https://github.com/chiumz9",
-    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
-    "github": "chiumz9",
-    "email": "fromthenyc@gmail.com",
-    "resume": " ",
-    "proficientTechnologies": [
-        "Javascript",
-        "Python"
-    ],
-    "otherSkills": [
-        "Eating",
-        "Sleeping",
-        "Gaming"
-    ]
+  "name": "Chiu Zhiu",
+  "website": "https://github.com/chiumz9",
+  "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+  "github": "chiumz9",
+  "email": "fromthenyc@gmail.com",
+  "resume": " ",
+  "proficientTechnologies": [
+    "Javascript",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose",
+    "Python",
+    "Flask",
+    "Django"
+  ],
+  "otherSkills": [
+    "Eating",
+    "Sleeping",
+    "Gaming"
+  ]
 }
